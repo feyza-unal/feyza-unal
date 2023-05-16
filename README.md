@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Appium and Cypress**
 
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
