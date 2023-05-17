@@ -1,11 +1,14 @@
-![Black Blue Modern Futuristic Software Labs LinkedIn Banner](https://github.com/feyza-unal/feyza-unal/assets/14862420/3a955a46-0fef-4906-a080-045c7c325521)
+![Black Blue Modern Futuristic Software Labs Banner](https://github.com/feyza-unal/feyza-unal/assets/14862420/3a955a46-0fef-4906-a080-045c7c325521)
 
-<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align="right" alt="coding" width="320" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+
+<br>
 
 - Hi 👋, I'm Feyza. A passionate Software Test Engineer from Turkey 👩🏼‍💻
 - 🔭 I’m currently working on **School Management Project**
 - 🌱 I’m currently learning **Appium and Cypress**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/feyzaunal" target="blank"><img align="center" 
