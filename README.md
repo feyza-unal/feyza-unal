@@ -48,7 +48,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1900" /> 
 <br>
   
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=feyza-unal&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+  
+<img align="center" width="320" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
 <br> 
   
 <!-- <img align="center" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> -->
@@ -56,5 +58,5 @@
 
 <!-- <img align='center' alt="coding" width="320" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp"> -->
      
-![snake gif](https://github.com/feyza-unal/feyza-unal/blob/output/github-contribution-grid-snake.gif)
+<!--  ![snake gif](https://github.com/feyza-unal/feyza-unal/blob/output/github-contribution-grid-snake.gif) -->
   
