@@ -15,7 +15,6 @@
                                                                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feyzaunal" height="30" width="40" /></a>
 </p>
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="30" height="30" />
@@ -47,9 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1900" />
-  
+<img align="left" alt="coding"  src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen%20open.gif  ">  
+    
 ![snake gif](https://github.com/feyza-unal/feyza-unal/blob/output/github-contribution-grid-snake.gif)
-
-![3d-contrib](./profile-3d-contrib/profile-night-rainbow.svg)
   
-
