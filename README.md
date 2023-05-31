@@ -45,9 +45,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1900" />
-<img align="left" alt="coding" max-width: 100%; height: auto; src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen%20open.gif  ">  
-<img align="left" alt="coding" width="320" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1900" /> 
+<br>
+  
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" />
+<br> 
+  
+<!-- <img align="center" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> -->
+<br>
+
+<!-- <img align='center' alt="coding" width="320" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp"> -->
      
 ![snake gif](https://github.com/feyza-unal/feyza-unal/blob/output/github-contribution-grid-snake.gif)
   
