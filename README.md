@@ -4,7 +4,8 @@
 <img align="right" alt="coding" width="320" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 
-- Hi 👋, I'm Feyza. A passionate Software Test Engineer from Turkey 👩🏼‍💻
+- Hi 👋, I'm Feyza. A passionate **Software Test Engineer** from Turkey 👩🏼‍💻
+- ⚡ Fun fact: I enjoy **drawing 🎨 and playing video games** 🎮
 - 🌱 I’m currently learning **Appium and Cypress**
 
 <br>
