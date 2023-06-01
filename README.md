@@ -5,7 +5,6 @@
 
 
 - Hi 👋, I'm Feyza. A passionate Software Test Engineer from Turkey 👩🏼‍💻
-- 🔭 I’m currently working on **School Management Project**
 - 🌱 I’m currently learning **Appium and Cypress**
 
 <br>
