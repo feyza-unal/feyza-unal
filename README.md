@@ -58,5 +58,5 @@
   
 <!-- <img align='center' alt="coding" width="320" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp"> -->
      
-<!-- ![snake gif](https://github.com/feyza-unal/feyza-unal/blob/output/github-contribution-grid-snake.gif)-->
+![snake gif](https://github.com/feyza-unal/feyza-unal/blob/output/github-contribution-grid-snake.gif)
   
