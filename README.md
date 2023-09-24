@@ -6,7 +6,7 @@
 
 - Hi 👋, I'm Feyza. A passionate **Software Test Engineer** from Turkey 👩🏼‍💻
 - ⚡ Fun fact: I enjoy **drawing 🎨 and playing video games** 🎮
-- 🌱 I’m currently learning **Appium and Cypress**
+- 🌱 I’m currently learning **Appium**
 
 <br>
 <h3 align="left">Connect with me:</h3>
